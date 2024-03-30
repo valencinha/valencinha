@@ -1,3 +1,4 @@
-I am a Systems Analysis and Development student, fluent in English and a self-taught musician.
-I was interested in the area of ​​technology because since I was a child I have always had contact with computers and video games and this opened my eyes to entering the world of algorithms. I started through a PowerApps course on Udemy and I improved and learned other languages like JavaScript, Python and style languages ​​like HTML and CSS.
-Since June 2023, I have been working as a freelancer on some projects using Frontend and Web Developer knowledge.
+Sou um estudante de Análise e Desenvolvimento de Sistemas, fluente em inglês e músico autodidata. 
+Me interessei na área de tecnologia porque desde criança sempre tive contato com computadores e videogames e isso me abriu os olhos para ingressar no universo dos algoritmos.  Comecei através de um curso de PowerApps da Udemy e fui me aprimorando e aprendendo outras linguagens, Java, JavaScript, Python e assim como linguagens de estilo como HTML e CSS.
+
+Desde junho de 2023 que já trabalho como freelancer em alguns projetos utilizando conhecimentos de Frontend, Backend e Web Developer. 
