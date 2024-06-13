@@ -2,7 +2,7 @@
 
 **Desenvolvedor Fullstack**
 
-Sou um estudante de 29 anos cursando Análise e Desenvolvimento de Sistemas. Atualmente, meu objetivo é ser desenvolvedor Fullstack. Tenho feito projetos como Freelancer nos últimos meses com várias tecnologias e ferramentas.
+Sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente, meu objetivo é ser desenvolvedor Fullstack. Tenho feito projetos como Freelancer nos últimos meses com várias tecnologias e ferramentas.
 
 ## 📚 Educação
 
