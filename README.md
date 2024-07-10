@@ -1,8 +1,8 @@
 # Olá, eu sou Lucas Valença! 👋
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bem+Vindo+ao+Meu+Perfil)
+![Banner](https://miro.medium.com/v2/resize:fit:800/1*nftoTHMTibmPs4gpgvhEeQ.png)
 
-<h2 align="center">I'm 28 years old</h2>
+<h2 align="center">I'm 29 years old</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=radical" alt="Lucas Valença's GitHub Stats">
