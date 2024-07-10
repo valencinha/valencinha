@@ -1,8 +1,16 @@
 # Olá, eu sou Lucas Valença! 👋
 
-**Desenvolvedor Fullstack**
+![Banner](https://via.placeholder.com/800x200.png?text=Bem+Vindo+ao+Meu+Perfil)
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente, meu objetivo é ser desenvolvedor Fullstack. Tenho feito projetos como Freelancer nos últimos meses com várias tecnologias e ferramentas.
+<h2 align="center">I'm 28 years old</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=radical" alt="Lucas Valença's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 ## 📚 Educação
 
@@ -16,9 +24,21 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente, meu obje
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Front-end**: JavaScript, HTML, CSS3, React.js
-- **Back-end**: Java, Spring Boot, SQL
-- **Ferramentas e Outros**: Git/GitHub, Microsoft 365, PowerApps, Microsoft PowerPoint, Microsoft Excel
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
 
 ## 💼 Experiência
 
@@ -34,20 +54,22 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
 - Participação em projetos de implementação de Mudanças de TI, garantindo a conformidade com os processos estabelecidos.
 - Certificação em ITIL Foundation, demonstrando compreensão dos princípios e práticas de gerenciamento de serviços de TI.
 
-## 🌐 Contatos
-
-- **Telefone**: (81) 9 8863-2471
-- **Email**: [valencalucas1@hotmail.com](mailto:valencalucas1@hotmail.com)
-- **GitHub**: [github.com/valencinha](https://github.com/valencinha)
-- **LinkedIn**: [linkedin.com/in/valencinha](https://www.linkedin.com/in/valencinha)
-- **Portfólio**: [https://valencinha.github.io/portfolio/](https://valencinha.github.io/portfolio/)
-
 ## 🌍 Idiomas
 
 - **Português** - Nativo
 - **Inglês** - Fluente
 
+## 🌐 Contatos
+
+<p align="center">
+  <a href="https://github.com/valencinha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/valencinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:valencalucas1@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://valencinha.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
 ---
 
 Obrigado por visitar meu perfil! Se tiver interesse em colaborar ou tiver alguma oportunidade, sinta-se à vontade para entrar em contato.
-
