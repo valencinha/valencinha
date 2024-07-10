@@ -1,9 +1,13 @@
 # Olá, eu sou Lucas Valença! 👋
 
+<div align="center">
+<h2>📈 Github Statistics 📉</h2>
+  <a href="https://github.com/valencinha">
+    
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=dracula" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&hide_border=true&theme=dracula" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
 
 ## 📚 Educação
 
