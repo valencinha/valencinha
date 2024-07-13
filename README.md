@@ -58,8 +58,8 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
 
 ## 🌍 Idiomas
 
-- **Português**-Nativo
-- **Inglês**-Fluente
+- **Português** - Nativo
+- **Inglês** - Fluente
 
 ## 🌐 Contatos
 
