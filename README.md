@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=696969&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=0000FF&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
 <div align="center">
 
