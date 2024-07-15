@@ -4,15 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=0000FF&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
 <div align="center">
-
-<div align="center">
-<h2>📈 Github Statistics 📉</h2>
-  <a href="https://github.com/valencinha">
-    
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=github_dark" /> 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&hide_border=true&theme=github_dark" />
-</div>
-
+<br>
 
 ## 📚 Educação
 
@@ -23,24 +15,16 @@
 - **SQL Database Specialist** - DIO
 - **Especialista Java** - AlgaWorks (Em Andamento)
 - **Especialista Spring REST** - AlgaWorks (Em Andamento)
+<br>
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,java,spring,mysql,js,html,css" />
+  </a>
 </p>
+<br>
 
 ## 💼 Experiência
 
@@ -61,15 +45,25 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
 - **Português** - Nativo
 - **Inglês** - Fluente
 
-## 🌐 Contatos
+<br>
 
-<p align="center">
-  <a href="https://github.com/valencinha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/valencinha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:valencalucas1@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://valencinha.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="https://instagram.com/valencinhaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+## 🌐Contatos
+
+
+<p>
+        <a href="https://www.instagram.com/valencinhaa/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60" height="60"></a>
+        <a href="https://www.linkedin.com/in/valencinha/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="60" height="60"></a>
+        <a href="mailto:valencalucas1@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="60" height="60"></a>
+      </p>
+<br>
+<div align="center">
+<h2>📈 Github Statistics 📉</h2>
+  <a href="https://github.com/valencinha">
+    
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=github_dark" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&hide_border=true&theme=github_dark" />
+</div>
+
 
 ---
 
