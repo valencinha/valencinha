@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=0000FF&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
-<div align="center">
+
 <br>
 
 ## 📚 Educação
@@ -19,7 +19,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,java,spring,mysql,js,html,css" />
   </a>
