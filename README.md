@@ -72,8 +72,6 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
 
 <br>
 
-<!-- Snake -->
-
 
 ---
 
