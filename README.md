@@ -1,3 +1,4 @@
+<!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 
@@ -6,6 +7,7 @@
 
 <br>
 
+<!-- Body -->
 ## 📚 Educação
 
 - **Análise e Desenvolvimento de Sistemas** - Faculdade Descomplica (2024 - 2026.5)
@@ -47,8 +49,8 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
 
 <br>
 
+<!-- Socials -->
 ## 🌐Contatos
-
 
 <p>
         <a href="https://www.instagram.com/valencinhaa/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60" height="60"></a>
@@ -58,6 +60,8 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
       
 <br>
 
+
+
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
   <a href="https://github.com/valencinha">
@@ -65,6 +69,10 @@ Atuei como desenvolvedor Fullstack freelancer, utilizando JavaScript, HTML e CSS
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=valencinha&show_icons=true&theme=github_dark" /> 
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valencinha&layout=compact&hide_border=true&theme=github_dark" />
 </div>
+
+<br>
+
+<!-- Snake -->
 
 
 ---
